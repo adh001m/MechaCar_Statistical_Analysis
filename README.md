@@ -23,11 +23,11 @@
 ![144FC0E3-2454-4CB5-AF4B-E4ED80C95560.jpeg](144FC0E3-2454-4CB5-AF4B-E4ED80C95560.jpeg)
 
 ## Study Design: MechaCar vs Competition
-In order to compare MechaCar against its competition, we should analyze the effects of 'ground clearance' and 'vehicle weight' on mpg across other companies. 
+### In order to compare MechaCar against its competition, we should analyze the effects of 'ground clearance' and 'vehicle weight' on mpg across other companies. 
 
 
-Null Hypothesis: Based on 'ground clearance' and 'vehicle weight' data, MechaCar's mpg performance is 20% more effective than other copmpanies.
+### Null Hypothesis: Based on 'ground clearance' and 'vehicle weight' data, MechaCar's mpg performance is 20% more effective than other copmpanies.
 
-Alternative Hypothesis: Based on 'ground clearance' and 'vehicle weight' data, MechaCar's mpg performance is less effective than or equal to other copmpanies.
+### Alternative Hypothesis: Based on 'ground clearance' and 'vehicle weight' data, MechaCar's mpg performance is less effective than or equal to other copmpanies.
 
-Which test to use: A one sample t-test would be used to compare the mean of a sample to the population. In this case, the mean of MechaCar's mpg should be higher than the mean mpg performance of other companies.
+### Which test to use: A one sample t-test would be used to compare the mean of a sample to the population. In this case, the mean of MechaCar's mpg should be higher than the mean mpg performance of other companies.
